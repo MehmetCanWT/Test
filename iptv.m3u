@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="Live Cams",Live Cams
 http://live.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="dropbbox 1",dropbbox 1
+https://previews.dropbox.com/p/hls_playlist/ACbecZ22DeUh9sIzbIgdgzShmn2vxNk5Z7X34vxBsj0u5DKr-NjDopvO-8Uy5dCH66GYyycQutzldbl-XmaADJNCPXZKUYCMNlDYbbHFFdRT08vlH_bQxE4Kh-GaJZQ5K_11ZvOiC3mqljVPoP8TA4auUu6JGrX_kd-J2EKNY6j36LghR7DIn_CaJxnkcHlxNbSe_Zay62AtrZFqV7EjLnlSknv_fpAT97DH7-5pBp1RpEPqo_1ANTcnw72qugw28OTQign8HFTfv-_nZ3ZDhqyDmuuNahaWRlTpcpqUfwRlLP_OV2ssnyKlQ9bxPJ7F8O_U1RFQiI0pN286VkjlaWgVfQ8LNA9rCjVBkX8k2fIThCOVMtcn55bInpiDurY-UQ92PnC3no0vbg03ailW2U-z/p.m3u8?hw_acceleration=False&size=1920x1080&type=video
 #EXTINF:-1 tvg-id="" tvg-name="10 seconds test",10 seconds test
 https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/gELiZj/nJyTFA/mp4/ChTq2c7gMS4rzgYzNViKqusmt_b_JRAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1728256214&Signature=bbhfAQTLGTBmfDVdt6kjtQ1e2jw%3D&ngsw-bypass=1
 #EXTINF:-1 tvg-id="" tvg-name="Lau__1's Cam",Lau__1's Cam
