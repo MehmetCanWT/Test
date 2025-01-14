@@ -16,3 +16,7 @@ http://192.168.1.120:8080/videos/aya_hitakayama_2.ts
 http://192.168.1.120:8080/videos/hella__cute_1.ts
 #EXTINF:-1 tvg-id="" tvg-name="breeding_material 1",breeding_material 1
 http://192.168.1.120:8080/videos/breeding_material_1.ts
+#EXTINF:-1 tvg-id="" tvg-name="diana_alison_1",diana_alison_1
+http://192.168.1.120:8080/videos/?file=diana_alison_1.ts
+#EXTINF:-1 tvg-id="" tvg-name="yunogasei_1",yunogasei_1
+http://192.168.1.120:8080/videos/?file=yunogasei_1.ts
