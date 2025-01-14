@@ -1,21 +1,14 @@
 #EXTINF:-1 tvg-id="" tvg-name="Emy_Kami's Cam 1",Emy_Kami's Cam 1
-http://94.154.32.154/videos/emy_kamy_2025-01-12_15-28-52.ts
-#EXTINF:-1 tvg-id="" tvg-name="Emy_Kami's Cam 2",Emy_Kami's Cam 2
-http://94.154.32.154/videos/emy_kamy_2025-01-12_16-24-33.ts
+http://192.168.1.120:8080/videos/emy_kamy_1.ts
 #EXTINF:-1 tvg-id="" tvg-name="baeasian",baeasian
-http://192.168.1.120:8080/Beasian_1.ts
-#EXTINF:-1 tvg-id="" tvg-name="hannah_lourens",hannah_lourens
-http://94.154.32.154/videos/hannah_lourens_2025-01-12_15-27-06.ts
+http://192.168.1.120:8080/videos/Beasian_1.ts
 #EXTINF:-1 tvg-id="" tvg-name="kriss0leoo Cam 1",kriss0leoo Cam 1
-http://94.154.32.154/videos/kriss0leoo_2025-01-12_15-23-37.ts
-#EXTINF:-1 tvg-id="" tvg-name="kriss0leoo Cam 2",kriss0leoo Cam 2
-http://94.154.32.154/videos/kriss0leoo_2025-01-12_18-23-07.ts
+http://192.168.1.120:8080/videos/kriss0leoo_1.ts
 #EXTINF:-1 tvg-id="" tvg-name="sana_minatozaki",sana_minatozaki
-http://94.154.32.154/videos/sana_minatozaki_2025-01-12_15-26-53.ts	
-#EXTINF:-1 tvg-id="" tvg-name="Kittywannawin",Kittywannawin 2
-#EXTINF:-1 tvg-id="" tvg-name="Kittywannawin 2",Kittywannawin 2
-#EXTINF:-1 tvg-id="" tvg-name="Sarı",Sarı
-#EXTINF:-1 tvg-id="" tvg-name="Sarı 2",Sarı 2
+http://192.168.1.120:8080/videos/sana_minatozaki_1.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kittywannawin",Kittywannawin1
+#EXTINF:-1 tvg-id="" tvg-name="aya_hitakayama",aya_hitakayama
+#EXTINF:-1 tvg-id="" tvg-name="aya_hitakayama 2",aya_hitakayama 2
 #EXTINF:-1 tvg-id="" tvg-name="Lau__1's Cam",Lau__1's Cam
 #EXTINF:-1 tvg-id="" tvg-name="Asuno_'s Cam",Asuno_'s Cam
 #EXTINF:-1 tvg-id="" tvg-name="Mysticxkitty's Cam",Mysticxkitty's Cam
